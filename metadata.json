@@ -1,0 +1,6 @@
+{
+  "name": "AI-Powered Underground Utility Mapping and Risk Prediction System",
+  "description": "An AI-powered GIS web platform for underground utility mapping, excavation risk prediction, damage prevention, and safety report generation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
